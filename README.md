@@ -24,6 +24,19 @@ Chill Gamer is a platform where gamers can explore and share reviews for a wide 
 - **Tooling**: prettier, tailwindprettier-plugin, eslint
 
 
+
+## Dependencies used
+- React
+- TailwindCSS
+- DaisyUI
+- React icons
+- Lottie React
+- React Tooltip
+- Sweet Alert 2
+- Swiper
+- Firebase
+
+
 # Installation
 
 **Clone the Repo**
@@ -53,16 +66,6 @@ npm install
 npm run dev
 ```
 
-## Dependencies used
-- React
-- TailwindCSS
-- DaisyUI
-- React icons
-- Lottie React
-- React Tooltip
-- Sweet Alert 2
-- Swiper
-- Firebase
 
 ## Live Site Url
 [Chill Gamer](https://chill-gamer.web.app/)
